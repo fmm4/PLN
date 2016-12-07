@@ -1,0 +1,2 @@
+Dados extraidos dos dias: de 2016-07-01 a 2016-10-24. (Eleicoes americanas foram 2016-11-07)
+Extraidos da hashtag: #eleicoes2016 que possuam hillary, clinton ou donald, trump tweet.
